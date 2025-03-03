@@ -1,2 +1,3 @@
 # Superstore_Sales_Analysis
-This Power BI dashboard provides an interactive analysis of Superstore sales, offering insights into revenue trends, customer demographics, and product performance. The goal is to identify key business patterns that drive profitability and efficiency.
+## Project Objective
+The objective of this Power BI dashboard is to analyze Superstore sales performance by identifying key revenue-driving factors, optimizing inventory management, and enhancing customer segmentation.Through interactive visualizations, the project aims to provide data-driven insights that help businesses improve profitability, track sales trends, and make informed decisions on product performance and regional sales strategies.
