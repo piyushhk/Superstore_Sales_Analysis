@@ -11,8 +11,6 @@ The objective of this Power BI dashboard is to analyze Superstore sales performa
 - Profitability Analysis: Identified high-margin products and loss-making segments to optimize inventory management.
 - Customer Segmentation: Visualized customer distribution based on location, purchase behavior, and order quantity.
 - Time-Series Trends: Evaluated monthly and yearly sales fluctuations to track growth and seasonal patterns.
-- KPI's
- > Sales by Month Year-over-Year (YoY)
- > Profit by Year-over-Year (YoY)
+- Important KPIs - Sales by Month Year-over-Year (YoY), Profit by Year-over-Year (YoY)
 
 
