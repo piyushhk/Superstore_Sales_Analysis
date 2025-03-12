@@ -5,3 +5,14 @@ The objective of this Power BI dashboard is to analyze Superstore sales performa
 
 ## Dataset Used
 - <a href="https://github.com/piyushhk/Superstore_Sales_Analysis/blob/main/Superstore%20Dataset.xls">Superstore_Dataset</a>
+
+## Key Insights
+Sales Performance: Analyzed sales trends across different regions, categories, and subcategories.
+Profitability Analysis: Identified high-margin products and loss-making segments to optimize inventory management.
+Customer Segmentation: Visualized customer distribution based on location, purchase behavior, and order quantity.
+Time-Series Trends: Evaluated monthly and yearly sales fluctuations to track growth and seasonal patterns.
+KPI's
+Sales by Month Year-over-Year (YoY)
+Profit by Year-over-Year (YoY)
+
+
